@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="src-tauri/icons/128x128@2x.png" width="120" alt="codeMUX Logo">
+  <img src="images/128x128@2x.png" width="120" alt="codeMUX Logo">
 </p>
 
 <h1 align="center">codeMUX</h1>
@@ -95,29 +95,29 @@
 
 ### 新建会话与项目入口
 
-![主页](public/demo/home.png)
+![主页](images/home.png)
 
 ### 主对话面板
 
-![对话面板](public/demo/chat.png)
+![对话面板](images/chat.png)
 
-![对话面板 - 完整视图](public/demo/chat_full.png)
+![对话面板 - 完整视图](images/chat_full.png)
 
 ### 文件改动与 Diff
 
-![Diff 视图](public/demo/diff.png)
+![Diff 视图](images/diff.png)
 
 ### Provider 配置
 
-![提供商列表](public/demo/provider.png)
+![提供商列表](images/provider.png)
 
 ### MCP 管理
 
-![MCP 设置](public/demo/mcp.png)
+![MCP 设置](images/mcp.png)
 
 ### Skills 管理
 
-![Skills 设置](public/demo/skill.png)
+![Skills 设置](images/skill.png)
 
 ---
 
